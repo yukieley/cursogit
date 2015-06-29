@@ -1,5 +1,9 @@
 body{
+	background: red;
 	border: 1px solid black;
 	border-radius:5px;
+	color: blue;
+	margin: 0 auto;
 	max-width: 1024px;
+
 }
